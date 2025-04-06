@@ -5,9 +5,9 @@ def test_imap_connection():
     print("开始测试IMAP连接")
     imap_server = "imap.gmail.com"
     imap_port = 993
-    username = "liuw48674@gmail.com"
+    username = "milkymilk994@gmail.com"
     password = "ikgu cpqj bfld kigy"
-    email_to = "liuw48674@gmail.com"
+    email_to = "milkymilk994@gmail.com"
     
     try:
         print(f"尝试连接IMAP服务器: {imap_server}:{imap_port}")
